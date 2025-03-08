@@ -1,6 +1,6 @@
 testesPython
-meuDicionario = {'Globo':10, 'Clara':13}
+meuDicionario = {'Globo':365, 'Clara':22}
 print(meuDicionario)
 
-lista1 = (1, 2, 3, 4, 5)
+lista1 = (1, 2, 3, 4, 7)
 print(lista1)
